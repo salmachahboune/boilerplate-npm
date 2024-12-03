@@ -3,8 +3,11 @@
 	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"author":"Salma Chahboune",
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		
+		"package-name": "@freecodecamp/example",
+        "express": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
